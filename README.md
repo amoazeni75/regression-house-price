@@ -24,3 +24,6 @@ The full list of attributes in this dataset are as follows:
   <li>LSTAT: % lower status of the population</li>
   <li>MEDV: Median value of owner-occupied homes in 1000s.</li>
 </ol>
+
+<p>tutorial source: Deep Learning With Python, Develop Deep Learning Models On Theano And TensorFlow Using
+Keras, Jason Brownlee</p>
